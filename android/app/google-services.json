@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "416490595452",
+    "firebase_url": "https://money-manager-313b8.firebaseio.com",
+    "project_id": "money-manager-313b8",
+    "storage_bucket": "money-manager-313b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416490595452:android:7dc8c6debe224c9d6615f9",
+        "android_client_info": {
+          "package_name": "com.example.money_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416490595452-7kcth7vlb6gngrdn8h1ktsr91argn5c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_manager",
+            "certificate_hash": "dfd83ec50cb4a966fe85c9bd78c947a99b5e1993"
+          }
+        },
+        {
+          "client_id": "416490595452-1vm0oj1vailcan12akr9pvmmumpl4nfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_manager",
+            "certificate_hash": "9593b963df51b72b4a0450f938f8443887efcdfb"
+          }
+        },
+        {
+          "client_id": "416490595452-nsmceaa0cdamdgf12ag71jtc0qk4f1nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_manager",
+            "certificate_hash": "bc3c2e7b8c59dec7863fdbf85a3f1bcb0ab9975f"
+          }
+        },
+        {
+          "client_id": "416490595452-u5ccv5179gf08e2ju3c0915krg9c52mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjFqTkFb9uhyipP1SZTAIZQr9s-Dwse0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416490595452-u5ccv5179gf08e2ju3c0915krg9c52mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
